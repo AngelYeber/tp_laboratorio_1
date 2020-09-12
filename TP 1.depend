@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599922992 source:c:\users\sabrino\desktop\angel programacion 2do cuatri 2do intento\tp's\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"archivo.h"
+
+1599923796 c:\users\sabrino\desktop\angel programacion 2do cuatri 2do intento\tp's\tp 1\archivo.h
+
+1599922534 source:c:\users\sabrino\desktop\angel programacion 2do cuatri 2do intento\tp's\tp 1\archivo.c
+	"archivo.h"
+	<stdlib.h>
+	<stdio.h>
+
