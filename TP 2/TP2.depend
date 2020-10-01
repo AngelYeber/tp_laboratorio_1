@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1600789183 source:c:\users\sabrino\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1601538601 source:c:\users\sabrino\desktop\angel programacion 2do cuatri 2do intento\tp's\tp 2\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1601538595 c:\users\sabrino\desktop\angel programacion 2do cuatri 2do intento\tp's\tp 2\arrayemployees.h
+
+1601536058 source:c:\users\sabrino\desktop\angel programacion 2do cuatri 2do intento\tp's\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"menu.h"
+
+1601538599 c:\users\sabrino\desktop\angel programacion 2do cuatri 2do intento\tp's\tp 2\menu.h
+
+1601536028 source:c:\users\sabrino\desktop\angel programacion 2do cuatri 2do intento\tp's\tp 2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"menu.h"
+
